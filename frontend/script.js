@@ -1,8 +1,9 @@
 const frequentWords = [
   {
-    word: "Git hub",
+    word: 'Git hub',
     count: 13,
-    description: "テキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキスト",
+    description:
+      'テキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキスト',
     image: `
       <svg viewBox="0 0 640 280" role="img" aria-label="Git hub のイメージ">
         <rect width="640" height="280" fill="#cfcfcf" />
@@ -10,9 +11,10 @@ const frequentWords = [
     `,
   },
   {
-    word: "Git hub",
+    word: 'Git hub',
     count: 11,
-    description: "テキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキスト",
+    description:
+      'テキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキスト',
     image: `
       <svg viewBox="0 0 640 280" role="img" aria-label="Git hub のイメージ">
         <rect width="640" height="280" fill="#cfcfcf" />
@@ -20,9 +22,10 @@ const frequentWords = [
     `,
   },
   {
-    word: "Git hub",
+    word: 'Git hub',
     count: 9,
-    description: "テキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキスト",
+    description:
+      'テキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキスト',
     image: `
       <svg viewBox="0 0 640 280" role="img" aria-label="Git hub のイメージ">
         <rect width="640" height="280" fill="#cfcfcf" />
@@ -30,9 +33,10 @@ const frequentWords = [
     `,
   },
   {
-    word: "Git hub",
+    word: 'Git hub',
     count: 7,
-    description: "テキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキスト",
+    description:
+      'テキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキスト',
     image: `
       <svg viewBox="0 0 640 280" role="img" aria-label="Git hub のイメージ">
         <rect width="640" height="280" fill="#cfcfcf" />
@@ -40,9 +44,10 @@ const frequentWords = [
     `,
   },
   {
-    word: "Git hub",
+    word: 'Git hub',
     count: 6,
-    description: "テキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキスト",
+    description:
+      'テキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキスト',
     image: `
       <svg viewBox="0 0 640 280" role="img" aria-label="Git hub のイメージ">
         <rect width="640" height="280" fill="#cfcfcf" />
@@ -50,9 +55,10 @@ const frequentWords = [
     `,
   },
   {
-    word: "Git hub",
+    word: 'Git hub',
     count: 5,
-    description: "テキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキスト",
+    description:
+      'テキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキスト',
     image: `
       <svg viewBox="0 0 640 280" role="img" aria-label="Git hub のイメージ">
         <rect width="640" height="280" fill="#cfcfcf" />
@@ -60,9 +66,10 @@ const frequentWords = [
     `,
   },
   {
-    word: "Git hub",
+    word: 'Git hub',
     count: 4,
-    description: "テキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキスト",
+    description:
+      'テキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキスト',
     image: `
       <svg viewBox="0 0 640 280" role="img" aria-label="Git hub のイメージ">
         <rect width="640" height="280" fill="#cfcfcf" />
@@ -70,9 +77,10 @@ const frequentWords = [
     `,
   },
   {
-    word: "Git hub",
+    word: 'Git hub',
     count: 3,
-    description: "テキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキスト",
+    description:
+      'テキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキスト',
     image: `
       <svg viewBox="0 0 640 280" role="img" aria-label="Git hub のイメージ">
         <rect width="640" height="280" fill="#cfcfcf" />
@@ -81,19 +89,21 @@ const frequentWords = [
   },
 ];
 
-const wordHistoryList = document.getElementById("word-history-list");
-const rankingList = document.getElementById("ranking-list");
-const searchForm = document.getElementById("search-form");
-const searchInput = document.getElementById("word-search");
+const wordHistoryList = document.getElementById('word-history-list');
+const rankingList = document.getElementById('ranking-list');
+const searchForm = document.getElementById('search-form');
+const searchInput = document.getElementById('word-search');
 
 if (wordHistoryList) {
-  const sortedWords = [...frequentWords].sort((left, right) => right.count - left.count);
-  const ribbonColors = ["#ff5c5c", "#69ff00", "#ffd84d"];
+  const sortedWords = [...frequentWords].sort(
+    (left, right) => right.count - left.count,
+  );
+  const ribbonColors = ['#ff5c5c', '#69ff00', '#ffd84d'];
 
   const cardsMarkup = sortedWords
     .slice(0, 3)
     .map(({ word, count, description, image }, index) => {
-      const flagColor = ribbonColors[index] ?? "#d7d0c4";
+      const flagColor = ribbonColors[index] ?? '#d7d0c4';
       return `
         <article class="word-card" style="--flag-color: ${flagColor}">
           <button class="word-card__toggle" type="button" aria-expanded="false">
@@ -114,24 +124,24 @@ if (wordHistoryList) {
         </article>
       `;
     })
-    .join("");
+    .join('');
 
   wordHistoryList.innerHTML = cardsMarkup;
 
-  const toggleButtons = wordHistoryList.querySelectorAll(".word-card__toggle");
+  const toggleButtons = wordHistoryList.querySelectorAll('.word-card__toggle');
 
   toggleButtons.forEach((button) => {
-    button.addEventListener("click", () => {
-      const card = button.closest(".word-card");
-      const detail = card?.querySelector(".word-card__detail");
+    button.addEventListener('click', () => {
+      const card = button.closest('.word-card');
+      const detail = card?.querySelector('.word-card__detail');
 
       if (!card || !detail) {
         return;
       }
 
-      const isOpen = card.classList.toggle("is-open");
-      button.setAttribute("aria-expanded", String(isOpen));
-      detail.setAttribute("aria-hidden", String(!isOpen));
+      const isOpen = card.classList.toggle('is-open');
+      button.setAttribute('aria-expanded', String(isOpen));
+      detail.setAttribute('aria-hidden', String(!isOpen));
     });
   });
 }
@@ -148,14 +158,81 @@ if (rankingList) {
         </article>
       `;
     })
-    .join("");
+    .join('');
 
   rankingList.innerHTML = rankingMarkup;
 }
 
 if (searchForm && searchInput) {
-  searchForm.addEventListener("submit", (event) => {
+  searchForm.addEventListener('submit', async (event) => {
     event.preventDefault();
-    searchInput.blur();
+    const keyword = searchInput.value.trim();
+    if (!keyword) {
+      return;
+    }
+
+    try {
+      const response = await fetch(
+        `http://localhost:4000/search?keyword=${encodeURIComponent(keyword)}`,
+      );
+      if (!response.ok) {
+        console.error('検索に失敗しました', await response.text());
+        return;
+      }
+
+      const data = await response.json();
+
+      if (wordHistoryList) {
+        if (!Array.isArray(data) || data.length === 0) {
+          wordHistoryList.innerHTML = `
+            <p class="word-history__empty">結果が見つかりませんでした。</p>
+          `;
+          return;
+        }
+
+        const { item_name, description, image_url } = data[0];
+
+        wordHistoryList.innerHTML = `
+          <article class="word-card" style="--flag-color: #ff5c5c">
+            <button class="word-card__toggle" type="button" aria-expanded="false">
+              <div class="word-card__header">
+                <h3 class="word-card__name">${item_name}</h3>
+              </div>
+              <p class="word-card__meta">${description ?? ''}</p>
+              <div class="word-card__hint" aria-hidden="true">
+                <span class="word-card__hint-icon">⌄</span>
+              </div>
+            </button>
+            <div class="word-card__detail" aria-hidden="true">
+              <div class="word-card__detail-inner">
+                <div class="word-card__image">
+                  ${
+                    image_url
+                      ? `<img src="${image_url}" alt="${item_name}" />`
+                      : ''
+                  }
+                </div>
+              </div>
+            </div>
+          </article>
+        `;
+
+        const toggleButton = wordHistoryList.querySelector('.word-card__toggle');
+        const card = wordHistoryList.querySelector('.word-card');
+        const detail = wordHistoryList.querySelector('.word-card__detail');
+
+        if (toggleButton && card && detail) {
+          toggleButton.addEventListener('click', () => {
+            const isOpen = card.classList.toggle('is-open');
+            toggleButton.setAttribute('aria-expanded', String(isOpen));
+            detail.setAttribute('aria-hidden', String(!isOpen));
+          });
+        }
+      }
+    } catch (error) {
+      console.error('検索リクエストに失敗しました', error);
+    } finally {
+      searchInput.blur();
+    }
   });
 }
